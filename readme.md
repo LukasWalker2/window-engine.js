@@ -1,4 +1,4 @@
-# Window Engine.js
+# Window-Engine.js
 
 `window-engine.js` allows the user to wrap content in a movable and closable window.
 
